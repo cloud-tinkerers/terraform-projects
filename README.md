@@ -1,2 +1,3 @@
 # terraform-projects
-A repo to store beginner terraform projects on different branches
+
+https://cloudtinkerers.com/terraform-quick-dive-1/
